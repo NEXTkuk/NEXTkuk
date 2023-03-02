@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my graduation thesis**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
