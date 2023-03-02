@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextkuk&label=Profile%20views&color=0e75b6&style=flat" alt="nextkuk" /> </p>
 
-- 🔭 I’m currently working on **my graduation thesis**
+- 🔭 I’m currently working on **I’m currently working on telegram bot**
 
 - 🌱 I’m currently learning **React**
 
