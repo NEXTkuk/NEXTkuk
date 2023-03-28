@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Buynov</h1>
 
-##
-
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
