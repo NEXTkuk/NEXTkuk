@@ -22,8 +22,6 @@
 
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
-
 
 <br>
 <br>
