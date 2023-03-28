@@ -18,8 +18,6 @@
 
 - 🔍 Take a look at my projects on [**Soon**](#)!.
 
-- 📫 How to reach me: **...@gmail.com**.
-
 - 💬 Ask me about **HTML and CSS**.
 
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
