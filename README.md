@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently studying on **I’m currently working on telegram bot**.
+- 🔭 I’m currently working on **Telegram Bot**.
 
 - 🌱 I’m currently learning **React**.
 
