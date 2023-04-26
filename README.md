@@ -12,13 +12,13 @@
 
 
 
-- 🔭 I’m currently working on **Telegram Bot**.
+- 🔭 I’m currently working on a **Telegram Bot**.
 
 - 🌱 I’m currently learning **React**.
 
 - 🔍 Take a look at my projects on [**Soon**](#)!.
 
-- 💬 Ask me about **HTML and CSS**.
+- 💬 Ask me about **Python and React**.
 
 - 🤝 I’m looking for help in learning about **Accessible Websites**.
 
