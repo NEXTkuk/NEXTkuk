@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a **Telegram Bot**.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m continuously working to hone my skills  of **React**.
 
 - 🔍 Take a look at my projects on [**Soon**](#)!.
 
