@@ -45,7 +45,7 @@
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/)]()&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/NEXTkuk)]()
 <br>
-
+[https://codepen.io/NEXTkuk](https://codepen.io/NEXTkuk)
   
 </div>
 
