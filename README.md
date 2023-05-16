@@ -12,15 +12,15 @@
 
 
 
-- 🔭 I’m currently working on a **Telegram Bot**.
+- 🔭 I’m currently working on a **Telegram Bot**
 
-- 🌱 I’m continuously working to hone my skills  of **React**.
+- 🌱 I’m continuously working to hone my skills  of **React**
 
-- 🔍 Take a look at my projects on [**Soon**](#)!.
+- 🔍 Take a look at my projects on [**Soon**](#)!
 
-- 💬 Ask me about **Python and React**.
+- 💬 Ask me about **Python and React**
 
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
+- 🤝 I’m looking for help in learning about **Accessible Websites**
 
 
 <br>
@@ -52,11 +52,6 @@
 </div>
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-...
 
 </div>
 <br>
@@ -73,8 +68,8 @@
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 </details>
 
@@ -92,7 +87,6 @@
 <br>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </details>
@@ -102,12 +96,10 @@
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 </details>
 
 </div>
