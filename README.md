@@ -41,11 +41,10 @@
 
 <div align = "center">
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=linkedin.com/in/antonbuynov)]()&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonbuynov)](https://www.linkedin.com/in/antonbuynov)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/)]()&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/NEXTkuk)]()
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/NEXTkuk)](https://codepen.io/NEXTkuk)
 <br>
-[link](https://codepen.io/NEXTkuk)
   
 </div>
 
