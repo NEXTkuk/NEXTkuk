@@ -20,8 +20,6 @@
 
 - 💬 Ask me about **Python and React**
 
-- 🤝 I’m looking for help in learning about **Accessible Websites**
-
 
 <br>
 <br>
@@ -30,7 +28,6 @@
 
 - 📖 Soon
 - 📱 Soon
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
 
 
 #
