@@ -93,6 +93,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 </details>
 
+<details open>
+<summary><b>Security Testing Tools</b></summary>
+<br>
+\\\\\\\\\
+<br>
+</details>
+
 </div>
 
 
