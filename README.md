@@ -14,21 +14,13 @@
 
 - 🔭 I’m currently working on a **Telegram Bot**
 
-- 🌱 I’m continuously working to hone my skills  of **React**
+- 🌱 I’m continuously working to hone my skills
 
-- 🔍 Take a look at my projects on [**Soon**](#)!
-
-- 💬 Ask me about **Python and React**
+- 🔍 Take a look at my [**projects**](https://github.com/NEXTkuk?tab=repositories)!
 
 
 <br>
 <br>
-
-## 🏆 Goals
-
-- 📖 Soon
-- 📱 Soon
-
 
 #
 
