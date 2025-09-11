@@ -100,7 +100,8 @@
 <details open>
 <summary><b>Load testing</b></summary>
 <br>
-![AWS](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
+  
+![JMETER](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
 <br>
 </details>
 
