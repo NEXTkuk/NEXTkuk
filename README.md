@@ -100,7 +100,8 @@
 <details open>
 <summary><b>Load testing</b></summary>
 <br>
-  
+
+![PlayWright](https://img.shields.io/badge/Play-Wright-ff1709?style=for-the-badge&logo=playwright&logoColor=white&color=ff1709&labelColor=gray)
 ![JMETER](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
 <br>
 </details>
