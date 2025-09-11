@@ -98,7 +98,7 @@
 </details>
 
 <details open>
-<summary><b>Load testing</b></summary>
+<summary><b>Quality Assurance</b></summary>
 <br>
 
 ![PlayWright](https://img.shields.io/badge/PlayWright-44A833?style=for-the-badge&logo=playwright&logoColor=white)
