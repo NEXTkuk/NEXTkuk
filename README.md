@@ -83,6 +83,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PlayWright](https://img.shields.io/badge/PlayWright-44A833?style=for-the-badge&logo=playwright&logoColor=white)
+![JMETER](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
 </details>
 
 <details open>
@@ -95,15 +97,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Quality Assurance</b></summary>
-<br>
-
-![PlayWright](https://img.shields.io/badge/PlayWright-44A833?style=for-the-badge&logo=playwright&logoColor=white)
-![JMETER](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
-<br>
 </details>
 
 <details open>
