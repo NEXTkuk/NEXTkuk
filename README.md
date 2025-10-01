@@ -85,6 +85,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PlayWright](https://img.shields.io/badge/PlayWright-44A833?style=for-the-badge&logo=playwright&logoColor=white)
 ![JMETER](https://img.shields.io/badge/JMeter-%23FF9900.svg?style=for-the-badge&logo=jmeter&logoColor=white)
+<br>
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
