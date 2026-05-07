@@ -110,6 +110,8 @@
 <br>
   
 ![BurpSuite](https://img.shields.io/badge/burpsuite-%23F46800.svg?style=for-the-badge&logo=BurpSuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-2e94f2.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
 
 <br>
 </details>
