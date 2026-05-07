@@ -108,7 +108,7 @@
 <details open>
 <summary><b>Security Testing Tools</b></summary>
 <br>
-\\\\\\\\\
+![BurpSuite](https://img.shields.io/badge/burpsuite-%23F46800.svg?style=for-the-badge&logo=BurpSuite&logoColor=white)
 <br>
 </details>
 
